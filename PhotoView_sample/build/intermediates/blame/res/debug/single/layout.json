@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\beijingnews\\PhotoView_sample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\beijingnews\\PhotoView_sample\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\beijingnews\\PhotoView_sample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_pager.xml",
+        "source": "E:\\beijingnews\\PhotoView_sample\\src\\main\\res\\layout\\activity_view_pager.xml"
+    },
+    {
+        "merged": "E:\\beijingnews\\PhotoView_sample\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_item.xml",
+        "source": "E:\\beijingnews\\PhotoView_sample\\src\\main\\res\\layout\\viewpager_item.xml"
+    },
+    {
+        "merged": "E:\\beijingnews\\PhotoView_sample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_simple.xml",
+        "source": "E:\\beijingnews\\PhotoView_sample\\src\\main\\res\\layout\\activity_simple.xml"
+    }
+]

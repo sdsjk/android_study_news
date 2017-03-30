@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\beijingnews\\pullToRefreshListFragment_1\\build\\intermediates\\res\\merged\\release\\layout\\need_this_for_maven.xml",
+        "source": "E:\\beijingnews\\pullToRefreshListFragment_1\\src\\main\\res\\layout\\need_this_for_maven.xml"
+    },
+    {
+        "merged": "E:\\beijingnews\\pullToRefreshListFragment_1\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\beijingnews\\pullToRefreshListFragment_1\\build\\intermediates\\exploded-aar\\beijingnews\\PullToRefresh_library\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\beijingnews\\pullToRefreshListFragment_1\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\beijingnews\\pullToRefreshListFragment_1\\build\\intermediates\\exploded-aar\\beijingnews\\PullToRefresh_library\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    }
+]

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image22"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/icon_150" />
+
+    <TextView
+        android:layout_marginLeft="20dp"
+        android:id="@+id/title"
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/image22"
+        android:textSize="19sp"
+
+        android:text="从零开始的异世界生活 12" />
+
+    <TextView
+        android:layout_marginLeft="20dp"
+        android:id="@+id/descript"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="#12 再访王都"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/title"
+        android:textSize="15sp"
+        android:textColor="#55000000"
+        android:layout_toRightOf="@id/image22"
+        />
+</RelativeLayout>

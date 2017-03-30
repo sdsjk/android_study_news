@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:zyb="http://schemas.android.com/apk/res-auto"
+    android:gravity="center">
+
+    <com.zhang.zs.numaddandsub.AddAndSubView
+        android:id="@+id/add_sub"
+        zyb:current="2"
+        zyb:maxValue="10"
+        zyb:minValue="1"
+        zyb:numberAddSubViewBackground="@drawable/number_add_sub_view_bg"
+        zyb:btnSubBackgroud="@drawable/bg_btn_style_white"
+        zyb:btnAddBackgroud="@drawable/bg_btn_style_white"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+
+
+        />
+</RelativeLayout>

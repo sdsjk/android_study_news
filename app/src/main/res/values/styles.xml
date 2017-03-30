@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+   <!-- android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:button="@android:color/transparent"
+    android:padding="5dp"
+    android:textColor="@drawable/rb_home_text_selecter"-->
+    <style name="Myrb" >
+        <!-- Customize your theme here. -->
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@android:color/transparent</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@drawable/rb_home_text_selecter</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+
+</resources>

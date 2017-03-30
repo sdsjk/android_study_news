@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\beijingnews\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png",
+        "source": "E:\\beijingnews\\PullToRefresh_sample\\build\\intermediates\\exploded-aar\\beijingnews\\PullToRefresh_library\\unspecified\\res\\drawable-mdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\beijingnews\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "E:\\beijingnews\\PullToRefresh_sample\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\beijingnews\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "E:\\beijingnews\\PullToRefresh_sample\\build\\intermediates\\exploded-aar\\beijingnews\\PullToRefresh_library\\unspecified\\res\\drawable-mdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "E:\\beijingnews\\PullToRefresh_sample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "E:\\beijingnews\\PullToRefresh_sample\\build\\intermediates\\exploded-aar\\beijingnews\\PullToRefresh_library\\unspecified\\res\\drawable-mdpi-v4\\indicator_arrow.png"
+    }
+]

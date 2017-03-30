@@ -1,0 +1,21 @@
+apply plugin: 'com.android.application'
+
+dependencies {
+    //    compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.3'
+    compile project(':PhotoView_library')
+    compile files('libs/picasso-2.5.2.jar')
+    compile files('libs/universal-image-loader-1.9.5.jar')
+}
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion '23.0.2'
+
+    defaultConfig {
+        applicationId "uk.co.senab.photoview.sample"
+        minSdkVersion 8
+        targetSdkVersion 22
+        versionCode 124
+        versionName "1.2.4"
+    }
+}

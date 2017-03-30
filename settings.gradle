@@ -1,0 +1,8 @@
+include ':app', ':news', ':SlidingMenu_library', ':xutils', ':progressdata', ':PullToRefresh_library', ':androidJavaAndJsDemo', ':PhotoView_sample', ':PhotoView_library', ':upload_file_android', ':okhttputils', ':sample-okhttp', ':PullToRefresh_sample', ':pullToRefreshListFragment_1', ':pullToRefreshViewPager_1', ':refreshlistview', ':RefreshListView_Sample', ':xutilsdownload', ':xUtils3_sample', ':xUtils3_sample_1', ':xUtils3-sample', ':MaterialRefreshLayout_library', ':numaddandsub'
+include ':viewpager_library'
+include ':viewpager_sample'
+include ':library'
+include ':pullToRefreshListFragment'
+include ':pullToRefreshViewPager'
+include ':pullsample'
+include ':fund_Gesture_Lock'
